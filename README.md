@@ -25,6 +25,6 @@ A 15-year-old coding enthusiast currently exploring the wonderful world of web d
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=erfan-sani&show_icons=true&theme=radical)
 
 ## 💬 Let's Connect
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Erfan_sani)
 *"Warning: May send you funny coding memes at 3AM"* ⚡
 
