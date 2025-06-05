@@ -3,7 +3,7 @@
 
 
 # 👋 Hey there! I'm Erfan sani
-A 15-year-old coding enthusiast currently exploring the wonderful world of web development!
+A teenager coding enthusiast currently exploring the wonderful world of web development!
 
 ## 🛠️ Tech Stack
 ### Current Skills
