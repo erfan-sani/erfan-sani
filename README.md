@@ -23,7 +23,7 @@ A teenager coding enthusiast currently exploring the wonderful world of web deve
 
 ### Future Goals 🚀
 ![React](https://skillicons.dev/icons?i=React)
-![TypeScript](https://skillicons.dev/icons?i=TypeScript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 
 ## 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=erfan-sani&show_icons=true&theme=radical)
