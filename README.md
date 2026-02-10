@@ -1,9 +1,6 @@
+# 👋 Hey there! I'm Erfan Sani
 
-
-
-
-# 👋 Hey there! I'm Erfan sani
-A teenager coding enthusiast currently exploring the wonderful world of web development!
+> "I'm not afraid of anything... except **NULL POINTER DEREFERENCE**" 💥
 
 ## 🛠️ Tech Stack
 ### Current Skills
@@ -12,25 +9,23 @@ A teenager coding enthusiast currently exploring the wonderful world of web deve
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 
-
-##  Tools I use:
-
+### Tools
 ![VS Code](https://skillicons.dev/icons?i=vscode)
+![Git](https://skillicons.dev/icons?i=git)
 
-
-
-
-## 🔥 Currently Learning  
+## 🔥 Currently Learning
 ![C](https://skillicons.dev/icons?i=c)
+*Currently battling with pointers and memory management*
 
-### Future Goals 🚀
-![Vue.js](https://skillicons.dev/icons?i=vue)
-![React](https://skillicons.dev/icons?i=react)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
+## 🚀 Future Goals
+![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
 
 ## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=erfan-sani&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=erfan-sani&show_icons=true&theme=radical&hide_border=true)
 
 
 
+---
+
+⭐ *From `Hello World` to `Hello Memory Leak`*
